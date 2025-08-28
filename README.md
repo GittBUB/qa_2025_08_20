@@ -1,4 +1,4 @@
-# qa_2025_08_20
+# Q&A (08/20/2025)
 This repo contains a Q&amp;A file and relevant examples
 
 **How to maximize premium requests?** 
