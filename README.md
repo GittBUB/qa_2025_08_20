@@ -43,8 +43,9 @@ This repo contains a Q&amp;A file and relevant examples
 
 **How do I know if a model will consume a premium request?** 
 
-* *When you select the model to use in Copilot Chat, the number of premium requests that apply will be indicated to the right of the model name.*   
-  ![][image2] 
+* *When you select the model to use in Copilot Chat, the number of premium requests that apply will be indicated to the right of the model name.*
+
+  <img src="https://github.com/GittBUB/qa_2025_08_20/blob/main/assets/Screenshot%202025-08-27%20at%206.45.05%E2%80%AFPM.png" alt="Alt text" width="300"/> 
 
 **Where can I learn about the different models?** 
 
@@ -56,9 +57,7 @@ This repo contains a Q&amp;A file and relevant examples
 
 * *Click on the history icon in Copilot Chat.* 
 
-![][image3] 
-
- 
+  <img src="https://github.com/GittBUB/qa_2025_08_20/blob/main/assets/Screenshot%202025-08-27%20at%206.56.05%E2%80%AFPM.png" alt="Alt text" width="300"/> 
 
 **Why am I unable to see Copilot Chat in my IDE?** 
 
